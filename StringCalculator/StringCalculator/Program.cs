@@ -17,13 +17,13 @@ namespace StringCalculator
                 }
                 else
                 {
-                    Console.WriteLine("Input zero, one or two numbers in this format 'n,m' to calculate");
+                    Console.WriteLine("Input numbers in this format 'x,y,z' to calculate");
                     string number = Console.ReadLine();
                     string result = StringCalculator.Add(number);
                     Console.WriteLine($"The result is {result}");
                 }
             }
         }
-            
+
     }
 }

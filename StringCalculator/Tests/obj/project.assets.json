@@ -5865,11 +5865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Filip Kostadinov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5888,8 +5888,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {
-              "projectPath": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\StringCalculator\\StringCalculator.csproj"
+            "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {
+              "projectPath": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\StringCalculator\\StringCalculator.csproj"
             }
           }
         }

@@ -18,7 +18,7 @@ namespace StringCalculator
             var numbers = number.Split(',').ToList();
 
             List<double> nums = new List<double>();
-            
+
             foreach (var item in numbers)
             {
                 bool isNumber = double.TryParse(item, out double result);
@@ -29,9 +29,9 @@ namespace StringCalculator
                     nums.Add(result);
                 }
                 // check if last item is empty 
-                else if (numbers.IndexOf(item) == numbers.Count - 1 && string.IsNullOrWhiteSpace(item)) 
+                else if (numbers.IndexOf(item) == numbers.Count - 1 && string.IsNullOrEmpty(item))
                 {
-                    throw new InvalidOperationException("Missing number in last position");                
+                    throw new InvalidOperationException("Missing number in last position");
                 }
                 else
                 {
@@ -41,15 +41,10 @@ namespace StringCalculator
 
             var negativeNumbers = string.Join(',', nums.Where(n => n < 0));
 
-            //check for negative numbers and print
+            //check for negative numbers and print the negative numbers
             if (negativeNumbers.Length > 0)
             {
                 throw new ArgumentException($"Negative not allowed: {negativeNumbers}", negativeNumbers);
-            }
-
-            if (numbers.Count > 2)
-            {
-                throw new Exception("The maximum count of numbers is 2");
             }
 
             return nums.Sum().ToString();

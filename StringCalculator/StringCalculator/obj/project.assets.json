@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
       "projectName": "StringCalculator",
-      "projectPath": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
+      "projectPath": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
       "packagesPath": "C:\\Users\\Filip Kostadinov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filip Kostadinov\\source\\repos\\StringCalculator\\StringCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Filip Kostadinov\\Desktop\\GitHub-Filip\\UnitTestExercise\\StringCalculator\\StringCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

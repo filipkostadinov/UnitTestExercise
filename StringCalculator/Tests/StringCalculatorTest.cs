@@ -36,7 +36,7 @@ namespace Tests
         public void Add_EmptyString_ReturnsZero()
         {
             //Arrange
-            string number = "";
+            string number = string.Empty;
             string expected = "0";
             //Act
             string actual = StringCalculator.StringCalculator.Add(number);
@@ -48,6 +48,7 @@ namespace Tests
         [InlineData("abc,asd")]
         [InlineData(",")]
         [InlineData("   ,2")]
+        [InlineData(" ")]
         public void Add_NotANumberValue_Exception(string number)
         {
             //Arrange
@@ -70,20 +71,22 @@ namespace Tests
         public void Add_NegativeNumbers_ArgumentException()
         {
             //Arrange
-            string number = "-3,7";
+            string number = "-3,7,-2";
             //Act
             //Assert
-            Assert.Throws<ArgumentException>("-3",() => StringCalculator.StringCalculator.Add(number));
+            Assert.Throws<ArgumentException>("-3,-2", () => StringCalculator.StringCalculator.Add(number));
         }
 
         [Fact]
-        public void Add_MoreThanTwoNumbers_Exception()
+        public void Add_MoreThanTwoNumbers_ReturnsTrue()
         {
             //Arrange
-            string number = "3,7,4,2";            
+            string number = "1,2,3,4,5";
+            string expected = "15";
             //Act
+            string actual = StringCalculator.StringCalculator.Add(number);
             //Assert
-            Assert.Throws<Exception>(() => StringCalculator.StringCalculator.Add(number));
+            Assert.Equal(expected, actual);
         }
     }
 }
