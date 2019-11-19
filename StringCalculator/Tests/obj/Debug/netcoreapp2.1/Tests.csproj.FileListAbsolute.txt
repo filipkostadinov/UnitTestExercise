@@ -1,0 +1,17 @@
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\bin\Debug\netcoreapp2.1\StringCalculator.pdb
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\Tests\obj\Debug\netcoreapp2.1\Tests.pdb

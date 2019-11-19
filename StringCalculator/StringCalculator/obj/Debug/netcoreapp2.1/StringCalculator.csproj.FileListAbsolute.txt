@@ -1,0 +1,10 @@
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.deps.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.runtimeconfig.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\bin\Debug\netcoreapp2.1\StringCalculator.pdb
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.dll
+C:\Users\Filip Kostadinov\source\repos\StringCalculator\StringCalculator\obj\Debug\netcoreapp2.1\StringCalculator.pdb
